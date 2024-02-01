@@ -1,0 +1,1 @@
+UPDATE types SET type = REPLACE(type, 'Мейн-ку́н', 'Мейн-кун')
